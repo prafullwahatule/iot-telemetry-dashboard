@@ -1,4 +1,8 @@
 # 📊 Daikibo Telemetry Analysis Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![CSV](https://img.shields.io/badge/Data-CSV-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 A professional Power BI dashboard built to monitor and analyze IoT telemetry data from Daikibo manufacturing facilities. The dashboard provides insights into device health, temperature monitoring, geographical distribution, and operational status across factories.
 
