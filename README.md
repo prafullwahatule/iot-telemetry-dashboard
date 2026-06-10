@@ -1,6 +1,6 @@
 # 📊 Daikibo Telemetry Analysis Dashboard
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![CSV](https://img.shields.io/badge/Data-CSV-green)
+![JSON](https://img.shields.io/badge/Data-JSON-green)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
