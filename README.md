@@ -70,7 +70,9 @@ The dashboard follows a clean Deloitte-inspired design with a focus on business 
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](Daikibo%20Telemetry%20Dashboard%20-%20Deloitte_page-0001%20(1).jpg)
+<img width="2263" height="1325" alt="Daikibo Telemetry Dashboard - Deloitte" src="https://github.com/user-attachments/assets/21af7b51-dcf8-4723-a5d5-069a39e8572a" />
+
+
 
 ---
 
